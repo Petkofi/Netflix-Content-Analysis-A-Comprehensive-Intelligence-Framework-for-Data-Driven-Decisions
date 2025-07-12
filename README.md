@@ -1,6 +1,6 @@
 # Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ![Netflix Content Analysis](https://cdn.arstechnica.net/wp-content/uploads/2022/07/netflix.jpg)
 
