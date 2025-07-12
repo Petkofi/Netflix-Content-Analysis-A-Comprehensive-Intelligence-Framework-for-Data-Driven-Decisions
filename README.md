@@ -4,34 +4,34 @@
 
 ![Netflix Content Analysis](https://cdn.arstechnica.net/wp-content/uploads/2022/07/netflix.jpg)
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Introduction  
 This project harnesses a triad of analytical power—Excel, Python, and Tableau—to dissect authentic Netflix viewership data from Kaggle. Through this multi-tool approach, we reveal actionable intelligence to refine content strategy, enhance audience engagement, and drive data-informed decision-making for streaming platforms.
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Company Background  
 Netflix stands as the world's leading streaming platform, delivering an expansive catalog of films and series to viewers across 190+ countries. Its on-demand model has redefined entertainment consumption, making premium content accessible anytime, anywhere.
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Data Set  
 The dataset utilized in this analysis is sourced from Kaggle, offering comprehensive information about Netflix's content library. This dataset provides detailed information about Netflix's extensive library, encompassing both movies and TV shows. It includes unique identifiers for each title, the type of content (movie or TV show), titles, directors, cast members, production countries, the date content was added to Netflix, release years, and TV ratings.
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Netflix Analytics Dashboard  
 The analysis is based on a custom-built Netflix analytics dashboard, which provides visualizations and insights derived from the dataset.
 
 ![Netflix Dashboard](https://github.com/thejagadeesh/Netflix-Unveiled-Analyzing-Content-Diversity-and-User-Engagement-in-Movies-and-TV-Shows/assets/114074976/acbe6fa6-ec2f-4b8e-9b68-40799abd3a47)
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Tableau Dashboard  
 https://public.tableau.com/app/profile/dinoco/viz/NetflixDashboard_16890075388300/Netflix
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Key Findings  
 
@@ -56,7 +56,7 @@ https://public.tableau.com/app/profile/dinoco/viz/NetflixDashboard_1689007538830
 ### Trend Over the Years  
 - Consistent growth in movies and TV shows, reflecting Netflix's commitment to expanding its library.
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Implications and Recommendations  
 ### Content Strategy  
@@ -71,12 +71,12 @@ https://public.tableau.com/app/profile/dinoco/viz/NetflixDashboard_1689007538830
 - Refine recommendation algorithms using viewing habits.  
 - Introduce curated playlists for better content discovery.
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Conclusion  
 This project demonstrates how Excel, Python, and Tableau can extract strategic insights from Netflix's data, enabling data-driven decisions about content and user engagement.
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="100%" />
 
