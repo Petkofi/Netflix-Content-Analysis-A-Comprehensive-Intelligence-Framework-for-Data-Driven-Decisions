@@ -164,6 +164,16 @@ General:
   
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
+# Ratings
+![Netflix Ratings](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Ratings.png)
+
+### Key insights:
+- English leads with 122 blockbusters (avg 196.3M hours)
+- Korean has highest blockbuster rate: 1.9%
+- Overall 4 blockbusters (0.0% of catalog)
+  
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
+
 ## Key Findings  
 
 ### Content Distribution  
