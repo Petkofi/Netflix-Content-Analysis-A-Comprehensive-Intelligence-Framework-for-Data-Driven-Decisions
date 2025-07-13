@@ -53,6 +53,12 @@ The dataset contained 24,812 records with significant quality issues requiring r
 ## Content Type Performance Analysis
 ![Netflix Content Type Performance Analysis](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Content%20Type%20Performance%20ANalysis.png)
 
+### Key Findings:
+- Shows lead with 21.8B total hours viewed (63.3% market share)
+- Movies generated 12.6B hours viewed (36.7% market share)
+- Shows average 45.4M hours per title vs Movies at 41.3M hours per title
+- 480 shows vs 306 movies released in 2023
+  
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Data Preparation and Data Quality Checks
