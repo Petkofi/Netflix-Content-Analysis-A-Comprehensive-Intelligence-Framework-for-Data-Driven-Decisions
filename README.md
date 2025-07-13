@@ -142,6 +142,17 @@ General:
   
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
+## Countries with the most content
+![Netflix Countries with the most content]( https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Countries%20with%20the%20most%20content.png)
+
+### Key insights:
+- English has the most content (17268 titles)
+- Korean content performs 2.0x better than average
+- Top 3 languages account for 89.7% of total viewing hours
+- Most efficient language has median performance of 1.7M hours/title
+  
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
+
 ## Key Findings  
 
 ### Content Distribution  
