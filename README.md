@@ -71,8 +71,6 @@ The dataset contained 24,812 records with significant quality issues requiring r
   
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
-![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
-
 ## Demographic Data Analysis
 ![Netflix Demographic Data Analysis](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Demographic%20Data%20Analysis.png)
 
@@ -82,6 +80,19 @@ The dataset contained 24,812 records with significant quality issues requiring r
 - Globally available content: 87.5%
   
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
+
+## Seasonal Viewership Analysis
+![Netflix Seasonal Viewership Analysis]()
+
+### Key seasonal insights:
+- Q1 (Jan-Mar) dominates with highest total viewership
+- August shows highest average performance per title (80M hours)
+- December has lowest performance, likely due to holiday competition
+- Summer months (Jul-Aug) have fewer releases but higher per-title performance
+
+  
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
+
 
 ## Key Findings  
 
