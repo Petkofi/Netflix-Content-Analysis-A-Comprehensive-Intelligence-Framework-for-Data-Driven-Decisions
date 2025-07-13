@@ -7,7 +7,7 @@
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Introduction  
-This project harnesses a triad of analytical power-Excel, Python, and Tableau-to dissect authentic Netflix viewership data from Kaggle. Through this multi-tool approach, we reveal actionable intelligence to refine content strategy, enhance audience engagement, and drive data-informed decision-making for streaming platforms.
+This project harnesses a triad of analytical power-Excel, Python, and Tableau-to dissect authentic Netflix viewership data from Kaggle. Through this multi-tool approach, I reveal actionable intelligence to refine content strategy, enhance audience engagement, and drive data-informed decision-making for streaming platforms.
 
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
@@ -22,7 +22,7 @@ The dataset utilized in this analysis is sourced from Kaggle, offering comprehen
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Problem Statement 
-This analysis seeks to decode Netflix's content strategy by examining the relationship between key variables—including content format (movies vs. series), language localization, release timing (seasonal/quarterly), and production attributes—and their collective impact on viewership performance.
+This analysis seeks to decode Netflix's content strategy by examining the relationship between key variables-including content format (movies vs. series), language localization, release timing (seasonal/quarterly), and production attributes-and their collective impact on viewership performance.
 
 #### Core Objectives:
 - Performance Benchmarking
@@ -45,7 +45,7 @@ The findings will empower content strategists to:
 
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
-## Data Preparation and Data Quality Checks
+## Data Preparation and Data Quality Checks (Netflix 2023)
 The dataset contained 24,812 records with significant quality issues requiring remediation: 67% missing release dates (16,646 nulls) and improperly formatted "Hours Viewed" values (e.g., "81,21,00,000"). Key preparation steps included converting string-based viewership metrics to numeric values, standardizing datetime formats for release dates, and filtering to 2023 content (yielding 786 analyzable records). Temporal features (seasons/quarters) were engineered, and categorical variables were validated-Language Indicator (6 unique values) and Content Type (2 values) showed complete data integrity. The cleaned dataset now supports robust analysis of 2023 viewing patterns across content types, languages, and release timing, with all numerical and temporal fields standardized for analytical operations.
 
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
