@@ -71,6 +71,18 @@ The dataset contained 24,812 records with significant quality issues requiring r
   
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
+
+## Demographic Data Analysis
+![Netflix Demographic Data Analysis](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Demographic%20Data%20Analysis.png)
+
+### Key Findings:
+- English content: 72.4% of titles
+- Non-English content: 27.599999999999994% of titles
+- Globally available content: 87.5%
+  
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
+
 ## Key Findings  
 
 ### Content Distribution  
