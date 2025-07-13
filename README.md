@@ -62,7 +62,7 @@ The dataset contained 24,812 records with significant quality issues requiring r
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Top Content Titles by Views
-![Netflix Top Content Titles by Views Analysis](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Top%20Content%20Titles%20by%20Views.png)
+![Netflix Top Content Titles by Views Analysis](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Top%20%20Content%20Titles%20by%20Views.png)
 
 ### Key Findings:
 - Shows: The Night Agent (812M), Ginny & Georgia S2 (665M), ONE PIECE (542M)
