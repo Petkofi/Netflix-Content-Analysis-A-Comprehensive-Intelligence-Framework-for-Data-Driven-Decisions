@@ -93,6 +93,14 @@ The dataset contained 24,812 records with significant quality issues requiring r
   
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
+## Seasonal Viewership Trends
+![Netflix Release Timing Optimization]()
+
+### Optimal Release Timing:
+- Shows perform best in December (18.0M avg hours)
+- Movies perform best in June (11.5M avg hours)
+  
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Key Findings  
 
