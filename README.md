@@ -153,6 +153,17 @@ General:
   
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
+## Content distribution patterns
+![Netflix Content distribution patterns](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Content%20Distribution%20Patterns.png)
+
+### Key distribution insights:
+- Global vs Regional content: 69.2% of catalog
+- English content: 44.4% shows vs 55.6% movies
+- Most movie-heavy: Hindi (76.7% movies)
+- Most show-heavy: Japanese (52.2% shows)
+  
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
+
 ## Key Findings  
 
 ### Content Distribution  
