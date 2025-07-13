@@ -81,8 +81,8 @@ The dataset contained 24,812 records with significant quality issues requiring r
   
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
-## Seasonal Viewership Analysis
-![Netflix Seasonal Viewership Analysis]()
+## Seasonal Viewership Trends
+![Netflix Seasonal Viewership Trends](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Seasonal%20Viewership%20Trends.png)
 
 ### Key seasonal insights:
 - Q1 (Jan-Mar) dominates with highest total viewership
