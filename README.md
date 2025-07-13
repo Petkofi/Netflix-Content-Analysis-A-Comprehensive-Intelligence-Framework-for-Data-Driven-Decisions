@@ -111,24 +111,31 @@ https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence
 General:
   - Shows: 10.2M avg hours/title (10105 titles)
   - Movies: 3.5M avg hours/title (13054 titles)
+
  Romance:
  - Shows: 9.2M avg hours/title (235 titles)
  - Movies: 3.2M avg hours/title (397 titles)
+
  Drama:
  - Shows: 9.2M avg hours/title (39 titles)
  - Movies: 8.6M avg hours/title (158 titles)
+
  Crime/Thriller:
  - Shows: 7.2M avg hours/title (102 titles)
  - Movies: 6.4M avg hours/title (105 titles)
+
  Action:
  - Shows: 5.9M avg hours/title (74 titles)
  - Movies: 3.5M avg hours/title (179 titles)
+
  Family:
  - Shows: 4.5M avg hours/title (88 titles)
  - Movies: 4.2M avg hours/title (125 titles)
+
  Horror:
  - Shows: 2.5M avg hours/title (51 titles)
  - Movies: 3.4M avg hours/title (76 titles)
+
  Sci-FI/Fantasy:
  - Shows: 7.7M avg hours/title (21 titles)
  - Movies: 1.4M avg hours/title (16 titles)
