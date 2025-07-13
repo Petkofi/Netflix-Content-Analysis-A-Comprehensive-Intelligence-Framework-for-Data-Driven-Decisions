@@ -46,7 +46,17 @@ The findings will empower content strategists to:
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Data Preparation and Data Quality Checks
-The dataset contained 24,812 records with significant quality issues requiring remediation: 67% missing release dates (16,646 nulls) and improperly formatted "Hours Viewed" values (e.g., "81,21,00,000"). Key preparation steps included converting string-based viewership metrics to numeric values, standardizing datetime formats for release dates, and filtering to 2023 content (yielding 786 analyzable records). Temporal features (seasons/quarters) were engineered, and categorical variables were validated—Language Indicator (6 unique values) and Content Type (2 values) showed complete data integrity. The cleaned dataset now supports robust analysis of 2023 viewing patterns across content types, languages, and release timing, with all numerical and temporal fields standardized for analytical operations.
+The dataset contained 24,812 records with significant quality issues requiring remediation: 67% missing release dates (16,646 nulls) and improperly formatted "Hours Viewed" values (e.g., "81,21,00,000"). Key preparation steps included converting string-based viewership metrics to numeric values, standardizing datetime formats for release dates, and filtering to 2023 content (yielding 786 analyzable records). Temporal features (seasons/quarters) were engineered, and categorical variables were validated-Language Indicator (6 unique values) and Content Type (2 values) showed complete data integrity. The cleaned dataset now supports robust analysis of 2023 viewing patterns across content types, languages, and release timing, with all numerical and temporal fields standardized for analytical operations.
+
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
+
+## Content Type Performance Analysis
+![Netflix Content Analysis](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/netflix-hero-image-github.jpg)
+
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
+
+## Data Preparation and Data Quality Checks
+The dataset contained 24,812 records with significant quality issues requiring remediation: 67% missing release dates (16,646 nulls) and improperly formatted "Hours Viewed" values (e.g., "81,21,00,000"). Key preparation steps included converting string-based viewership metrics to numeric values, standardizing datetime formats for release dates, and filtering to 2023 content (yielding 786 analyzable records). Temporal features (seasons/quarters) were engineered, and categorical variables were validated-Language Indicator (6 unique values) and Content Type (2 values) showed complete data integrity. The cleaned dataset now supports robust analysis of 2023 viewing patterns across content types, languages, and release timing, with all numerical and temporal fields standardized for analytical operations.
 
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
