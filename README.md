@@ -7,7 +7,7 @@
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Introduction  
-This project harnesses a triad of analytical power—Excel, Python, and Tableau—to dissect authentic Netflix viewership data from Kaggle. Through this multi-tool approach, we reveal actionable intelligence to refine content strategy, enhance audience engagement, and drive data-informed decision-making for streaming platforms.
+This project harnesses a triad of analytical power-Excel, Python, and Tableau-to dissect authentic Netflix viewership data from Kaggle. Through this multi-tool approach, we reveal actionable intelligence to refine content strategy, enhance audience engagement, and drive data-informed decision-making for streaming platforms.
 
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
@@ -21,10 +21,27 @@ The dataset utilized in this analysis is sourced from Kaggle, offering comprehen
 
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
-## Netflix Analytics Dashboard  
-The analysis is based on a custom-built Netflix analytics dashboard, which provides visualizations and insights derived from the dataset.
+## Problem Statement 
+This analysis seeks to decode Netflix's content strategy by examining the relationship between key variables—including content format (movies vs. series), language localization, release timing (seasonal/quarterly), and production attributes—and their collective impact on viewership performance.
 
-![Netflix Dashboard](https://github.com/thejagadeesh/Netflix-Unveiled-Analyzing-Content-Diversity-and-User-Engagement-in-Movies-and-TV-Shows/assets/114074976/acbe6fa6-ec2f-4b8e-9b68-40799abd3a47)
+#### Core Objectives:
+- Performance Benchmarking
+- Identify high-engagement content traits (genres, languages, formats)
+- Quantify the ROI of localization strategies
+
+#### Temporal Analysis
+- Map release cadence to viewership spikes
+- Determine optimal launch windows for different content types
+
+#### Strategic Insights
+- Reverse-engineer Netflix's data-driven content decisions
+- Surface actionable opportunities for inventory optimization
+
+#### Business Impact:
+The findings will empower content strategists to:
+- Allocate production budgets more effectively
+- Tailor regional catalogs based on proven performance drivers
+- Anticipate engagement patterns through temporal analytics
 
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
