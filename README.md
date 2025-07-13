@@ -78,7 +78,7 @@ The dataset contained 24,812 records with significant quality issues requiring r
 
 ### Key Findings:
 - English content: 72.4% of titles
-- Non-English content: 27.599999999999994% of titles
+- Non-English content: 27.6% of titles
 - Globally available content: 87.5%
   
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
