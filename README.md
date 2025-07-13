@@ -62,8 +62,13 @@ The dataset contained 24,812 records with significant quality issues requiring r
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Top Content Titles by Views
-![Netflix Top Content Titles by Views Analysis](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Content%20Type%20Performance%20ANalysis.png)
+![Netflix Top Content Titles by Views Analysis](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Top%20Content%20Titles%20by%20Views.png)
 
+### Key Findings:
+- Shows: The Night Agent (812M), Ginny & Georgia S2 (665M), ONE PIECE (542M)
+- Movies: King the Land (630M), Queen Charlotte (503M), Who is Erin Carter? (286M)
+- The visualization shows clear performance gaps - The Night Agent dominates shows at 812M hours, while King the Land leads movies at 630M hours. Shows generally achieve higher peak viewership than movies.
+  
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Key Findings  
