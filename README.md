@@ -51,7 +51,7 @@ The dataset contained 24,812 records with significant quality issues requiring r
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Content Type Performance Analysis
-![Netflix Content Analysis](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/netflix-hero-image-github.jpg)
+![Netflix Content Type Performance Analysis](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Content%20Type%20Performance%20ANalysis.png)
 
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
