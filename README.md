@@ -81,6 +81,16 @@ The dataset contained 24,812 records with significant quality issues requiring r
   
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
+## Weekly Release Patterns and Viewership
+![Netflix Weekly Release Patterns and Viewership](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Weekly%20Release%20Patterns%20and%20Viewership.png)
+
+### Key insights:
+- Fridays drive 38.2B hours (42% of weekly viewership) - the most of any day
+- Netflix releases 47% of contents on Fridays, but these get only 42% of viewership
+- Saturday releases perform best - averaging 21.5M hours/view, 3.8x better than Tuesday
+
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
+
 ## Seasonal Viewership Trends
 ![Netflix Seasonal Viewership Trends](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Seasonal%20Viewership%20Trends.png)
 
@@ -90,7 +100,6 @@ The dataset contained 24,812 records with significant quality issues requiring r
 - December has lowest performance, likely due to holiday competition
 - Summer months (Jul-Aug) have fewer releases but higher per-title performance
 
-  
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Seasonal Viewership Trends
