@@ -92,7 +92,7 @@ The dataset contained 24,812 records with significant quality issues requiring r
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Monthly Release Patterns and Viewership
-![Netflix Weekly Release Patterns and Viewership]( )
+![Netflix Monthly Release Patterns and Viewership](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Monthly%20Release%20Patterns%20and%20Viewership%20Hours.png)
 
 ### Key insights:
 - December dominated with 10.1B hours watched
