@@ -91,6 +91,16 @@ The dataset contained 24,812 records with significant quality issues requiring r
 
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
+## Monthly Release Patterns and Viewership
+![Netflix Weekly Release Patterns and Viewership]( )
+
+### Key insights:
+- December dominated with 10.1B hours watched
+- October released most content (802 titles) but ranked #3 in viewership
+- December had highest engagement per title (12.8M hours/title)
+
+![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
+
 ## Seasonal Viewership Trends
 ![Netflix Seasonal Viewership Trends](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Seasonal%20Viewership%20Trends.png)
 
