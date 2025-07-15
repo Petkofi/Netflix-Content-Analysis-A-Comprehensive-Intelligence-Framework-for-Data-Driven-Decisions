@@ -82,7 +82,7 @@ The dataset contained 24,812 records with significant quality issues requiring r
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Weekly Release Patterns and Viewership
-![Netflix Weekly Release Patterns and Viewership](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Weekly%20Release%20Patterns%20and%20Viewership.png)
+![Netflix Weekly Release Patterns and Viewership]( )
 
 ### Key insights:
 - Fridays drive 38.2B hours (42% of weekly viewership) - the most of any day
