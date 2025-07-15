@@ -112,7 +112,7 @@ The dataset contained 24,812 records with significant quality issues requiring r
 
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
-## Seasonal Viewership Trends
+## Release Timing Optimization
 ![Netflix Release Timing Optimization](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/Release%20Timing%20Optimization.png)
 
 ### Optimal Release Timing:
