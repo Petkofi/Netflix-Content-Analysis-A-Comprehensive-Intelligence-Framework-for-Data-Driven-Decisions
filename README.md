@@ -22,6 +22,7 @@ The dataset utilized in this analysis is sourced from Kaggle, offering comprehen
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
 ## Problem Statement 
+Netflix’s evolving content strategy, shaped by diverse formats, languages, and release schedules, has become a key driver of audience engagement, underscoring the need for data-driven insights to decode what resonates with viewers and when.
 This analysis seeks to decode Netflix's content strategy by examining the relationship between key variables-including content format (movies vs. series), language localization, release timing (seasonal/quarterly), and production attributes-and their collective impact on viewership performance.
 
 #### Core Objectives:
