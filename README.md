@@ -16,7 +16,7 @@ Netflix stands as the world's leading streaming platform, delivering an expansiv
 
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
 
-## Data Set  
+## Dataset  
 The dataset utilized in this analysis is sourced from Kaggle, offering comprehensive information about Netflix's content library. This dataset provides detailed information about Netflix's extensive library, encompassing both movies and TV shows. It includes unique identifiers for each title, the type of content (movie or TV show), titles, directors, cast members, production countries, the date content was added to Netflix, release years, and TV ratings.
 
 ![--](https://github.com/Petkofi/Netflix-Content-Analysis-A-Comprehensive-Intelligence-Framework-for-Data-Driven-Decisions/blob/main/divider.png)
